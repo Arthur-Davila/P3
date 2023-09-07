@@ -1,4 +1,5 @@
-package TAREFA7;
+package TAREFA7.Questão1;
+
 
 public class Main1 {
     public static void main(String[] args) {
@@ -6,8 +7,12 @@ public class Main1 {
         System.out.println(p);
         p.setNome("Ricardo");
         p.setDataNascimento("01/11/1963");
-        p.getSexo('M');
-        P.getAlergia(){}
+        p.setSexo('M');
+        p.setAlergia("Polen");
+        p.setCodigo("0001");
+        p.setPlanoSaude("Unimed");
+        p.setTipoSanguineo("O+");
+        System.out.println("\n"+p);
 
     }
 }

@@ -1,4 +1,4 @@
-package TAREFA7;
+package TAREFA7.Questão1;
 public class Paciente{
     private String codigo;
     private  String nome;
