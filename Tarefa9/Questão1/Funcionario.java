@@ -1,4 +1,4 @@
-package Tarefa9.Questão1;
+package TAREFA9.Questão1;
 public class Funcionario{
     private String nome;
     private double salarioAnual;

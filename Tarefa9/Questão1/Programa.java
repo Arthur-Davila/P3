@@ -1,4 +1,4 @@
-package Tarefa9.Questão1;
+package TAREFA9.Questão1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
