@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "TAREFA10.Usuario",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Questao1",
+            "request": "launch",
+            "mainClass": "TAREFA11.Questao1",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Questao2",
+            "request": "launch",
+            "mainClass": "TAREFA11.Questao2",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Questao3",
+            "request": "launch",
+            "mainClass": "TAREFA11.Questao3",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Questao4",
+            "request": "launch",
+            "mainClass": "TAREFA11.Questao4",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "TAREFA11.Questao5.Teste",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "TAREFA7.Questão1.Main1",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "TAREFA7.Questão2.Main2",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Jogo",
+            "request": "launch",
+            "mainClass": "TAREFA7.Questão3.Jogo",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Facebook",
+            "request": "launch",
+            "mainClass": "TAREFA7.Questão4.Facebook",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Notas",
+            "request": "launch",
+            "mainClass": "TAREFA7.Questão5.Notas",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "TAREFA9.Questão1.Programa",
+            "projectName": "P3_82e93d90"
+        },
+        {
+            "type": "java",
+            "name": "Teste(1)",
+            "request": "launch",
+            "mainClass": "TAREFA_EXTRA.Teste",
+            "projectName": "P3_82e93d90"
+        }
+    ]
+}

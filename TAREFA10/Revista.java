@@ -6,7 +6,7 @@ public class Revista extends ItemBiblioteca{
 
 
     public double calcular_multa(){
-    return this.geetDias_atrasados()*0.3;
+    return this.getDias_atrasados()*0.3;
 }
     public String getEdicao() {
         return edicao;
